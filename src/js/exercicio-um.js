@@ -1,1 +1,2 @@
 const json = [{"id":567,"dsecricao":"RIA","ativa":true,"professor":{"matricula":"4567890","nome":"Joao carlos"},"alunos":["maria","sergio","luan"]},{"id":123,"dsecricao":"APOO","ativa":false,"professor":{"matricula":"26352","nome":"Alessndro Souza"},"alunos":["maria","sergio","luan"]}]
+disciplinas = document.getElementById('disciplinas')
